@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "8.0.4",
+    "redux": "4.2.0",
+    "redux-saga": "1.2.1"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.10.9/docs/data/material/components/snackbars/SimpleSnackbar.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
